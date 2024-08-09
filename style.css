@@ -1,0 +1,20 @@
+.a1{
+    color: wheat;
+    position: relative ;
+    width: 100%;
+    height: 600px;
+    background-image: url(01-11.jpg);
+}
+.nave{
+    top: 1px;   
+    position: sticky ;
+}
+.welcome{
+    color: rgb(234, 238, 11);
+}
+.About{
+    margin-top: 35px;
+}
+.hh1{
+    height: 50px;
+}
